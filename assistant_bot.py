@@ -50,7 +50,7 @@ async def play_song_in_voice_chat(song_name, group_link):
 
 async def main():
     await login()  # Login to Assistant account
-    group_link = "https://t.me/your_group_link"  # Provide the group link where you want to join
+    group_link = "https://t.me/thajxj28"  # Provide the group link where you want to join
     song_name = "Never Gonna Give You Up"  # Example song
     await play_song_in_voice_chat(song_name, group_link)
 
