@@ -17,13 +17,13 @@ def play(update: Update, context: CallbackContext):
         update.message.reply_text("Please provide a song name after /play command.")
         return
 
-    group_link = "https://t.me/your_group_link"  # Replace with your group link
+    group_link = "https://t.me/thajxj28"  # Replace with your group link
     play_song_in_voice_chat(song_name, group_link)  # Call assistant bot to play song
     update.message.reply_text(f"Playing song: {song_name}")
 
 def main():
     # Telegram Bot API key
-    updater = Updater("YOUR_BOT_API_KEY", use_context=True)
+    updater = Updater("7204900838:AAER1etGVlMYdPAxz--xQGOnjhu2b6RVKko", use_context=True)
     dp = updater.dispatcher
 
     # Command Handlers
