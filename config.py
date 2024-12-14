@@ -1,6 +1,6 @@
 # config.py
 
 # Telegram API details
-API_ID = 'YOUR_API_ID'  # Replace with your API ID
-API_HASH = 'YOUR_API_HASH'  # Replace with your API Hash
-PHONE_NUMBER = 'YOUR_PHONE_NUMBER'  # Your phone number registered with Telegram
+API_ID = '24561400'  # Replace with your API ID
+API_HASH = 'c09e5941ece5f219064c20a4e9beab38'  # Replace with your API Hash
+PHONE_NUMBER = '+919695833998'  # Your phone number registered with Telegram
